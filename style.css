@@ -429,61 +429,61 @@ a.no-formula:hover {
 
 /* Variables de colores */
 :root {
-  --background-color-main: #ffffff;
-  --text-color-selection: #ffffff;
-  --background-color-selection: #007bff;
-  --background-color-h1: #007bff;
-  --text-color-h1: #ffffff;
-  --text-color-h1-link: #ffffff;
-  --text-color-h1-link-hover: #ffdd57;
-  --text-color-h3: #666666;
-  --text-color-h3-link: #666666;
-  --text-color-h3-link-hover: #007bff;
-  --background-color-topContent: #f8f9fa;
-  --background-color-no-formula: #007bff;
-  --background-color-no-formula-hover: #0056b3;
-  --text-color-no-formula-hover: #ffffff;
-  --background-color-footer: #343a40;
-  --text-color-footer: #ffffff;
-  --background-color-ul-li-a: #007bff;
-  --text-color-ul-li-a: #ffffff;
-  --border-color-ul-li-a: #0056b3;
-  --background-color-ul-li-a-hover: #0056b3;
-  --text-color-ul-li-a-hover: #ffffff;
-  --border-color-ul-li-a-hover: #003d7a;
-  --background-color-h2: #e9ecef;
-  --text-color-h2-link: #007bff;
-  --text-color-h2-link-hover: #0056b3;
-  --text-color-fold-buttons: #ffffff;
-  --border-color-fold-buttons: #007bff;
-  --text-color-fold-buttons-hover: #ffffff;
-  --border-color-fold-buttons-hover: #0056b3;
-  --background-color-fold-buttons-hover: #007bff;
-  --background-color-formulas: #f8f9fa;
-  --border-color-grupo-formulas: #dcdcdc;
-  --border-top-color-grupo-formulas: #007bff;
-  --background-color-formula-titulo: #f8f9fa;
-  --background-color-a-no-formula: #007bff;
-  --text-color-a-no-formula: #ffffff;
-  --text-color-a-no-formula-visited: #cccccc;
-  --background-color-a-no-formula-hover: #0056b3;
-  --text-color-a-no-formula-hover: #ffffff;
-  --background-color-spoiler-btn: #e9ecef;
-  --background-color-spoiler-btn-hover: #dcdcdc;
-  --text-color-spoiler-btn-hover: #000000;
-  --background-color-spoiler: #f8f9fa;
-  --background-color-marca: #007bff;
-  --text-color-marca: #ffffff;
-  --text-color-marca-link: #ffffff;
-  --text-color-marca-link-hover: #ffdd57;
-  --background-color-descargar: #007bff;
-  --text-color-descargar: #ffffff;
-  --text-color-descargar-link: #ffffff;
-  --text-color-descargar-link-hover: #ffdd57;
-  --background-color-enlace: #007bff;
-  --text-color-enlace: #ffffff;
-  --text-color-enlace-link: #ffffff;
-  --text-color-enlace-link-hover: #ffdd57;
-  --border-color-video: #dcdcdc;
-  --background-color-video: #f8f9fa;
+  --background-color-main: #E8F5E9; /* Verde muy claro */
+  --text-color-selection: #FFFFFF; /* Blanco */
+  --background-color-selection: #388E3C; /* Verde oscuro */
+  --background-color-h1: #388E3C; /* Verde oscuro */
+  --text-color-h1: #FFFFFF; /* Blanco */
+  --text-color-h1-link: #FFFFFF; /* Blanco */
+  --text-color-h1-link-hover: #C8E6C9; /* Verde claro */
+  --text-color-h3: #66BB6A; /* Verde mediano */
+  --text-color-h3-link: #66BB6A; /* Verde mediano */
+  --text-color-h3-link-hover: #388E3C; /* Verde oscuro */
+  --background-color-topContent: #C8E6C9; /* Verde claro */
+  --background-color-no-formula: #388E3C; /* Verde oscuro */
+  --background-color-no-formula-hover: #2E7D32; /* Verde oscuro */
+  --text-color-no-formula-hover: #FFFFFF; /* Blanco */
+  --background-color-footer: #1B5E20; /* Verde muy oscuro */
+  --text-color-footer: #FFFFFF; /* Blanco */
+  --background-color-ul-li-a: #388E3C; /* Verde oscuro */
+  --text-color-ul-li-a: #FFFFFF; /* Blanco */
+  --border-color-ul-li-a: #2E7D32; /* Verde oscuro */
+  --background-color-ul-li-a-hover: #2E7D32; /* Verde oscuro */
+  --text-color-ul-li-a-hover: #FFFFFF; /* Blanco */
+  --border-color-ul-li-a-hover: #1B5E20; /* Verde muy oscuro */
+  --background-color-h2: #A5D6A7; /* Verde claro */
+  --text-color-h2-link: #388E3C; /* Verde oscuro */
+  --text-color-h2-link-hover: #2E7D32; /* Verde oscuro */
+  --text-color-fold-buttons: #FFFFFF; /* Blanco */
+  --border-color-fold-buttons: #388E3C; /* Verde oscuro */
+  --text-color-fold-buttons-hover: #FFFFFF; /* Blanco */
+  --border-color-fold-buttons-hover: #2E7D32; /* Verde oscuro */
+  --background-color-fold-buttons-hover: #388E3C; /* Verde oscuro */
+  --background-color-formulas: #E8F5E9; /* Verde muy claro */
+  --border-color-grupo-formulas: #DCDCDC; /* Gris claro */
+  --border-top-color-grupo-formulas: #388E3C; /* Verde oscuro */
+  --background-color-formula-titulo: #C8E6C9; /* Verde claro */
+  --background-color-a-no-formula: #388E3C; /* Verde oscuro */
+  --text-color-a-no-formula: #FFFFFF; /* Blanco */
+  --text-color-a-no-formula-visited: #81C784; /* Verde mediano */
+  --background-color-a-no-formula-hover: #2E7D32; /* Verde oscuro */
+  --text-color-a-no-formula-hover: #FFFFFF; /* Blanco */
+  --background-color-spoiler-btn: #A5D6A7; /* Verde claro */
+  --background-color-spoiler-btn-hover: #81C784; /* Verde mediano */
+  --text-color-spoiler-btn-hover: #000000; /* Negro */
+  --background-color-spoiler: #E8F5E9; /* Verde muy claro */
+  --background-color-marca: #388E3C; /* Verde oscuro */
+  --text-color-marca: #FFFFFF; /* Blanco */
+  --text-color-marca-link: #FFFFFF; /* Blanco */
+  --text-color-marca-link-hover: #C8E6C9; /* Verde claro */
+  --background-color-descargar: #388E3C; /* Verde oscuro */
+  --text-color-descargar: #FFFFFF; /* Blanco */
+  --text-color-descargar-link: #FFFFFF; /* Blanco */
+  --text-color-descargar-link-hover: #C8E6C9; /* Verde claro */
+  --background-color-enlace: #388E3C; /* Verde oscuro */
+  --text-color-enlace: #FFFFFF; /* Blanco */
+  --text-color-enlace-link: #FFFFFF; /* Blanco */
+  --text-color-enlace-link-hover: #C8E6C9; /* Verde claro */
+  --border-color-video: #DCDCDC; /* Gris claro */
+  --background-color-video: #F8F9FA; /* Gris muy claro */
 }
